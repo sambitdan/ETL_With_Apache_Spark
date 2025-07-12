@@ -1,4 +1,3 @@
-# ETL_With_Apache_Spark
 # ETL with Apache Spark on Databricks – GizmoBox E-commerce Data Engineering
 
 ## Overview
